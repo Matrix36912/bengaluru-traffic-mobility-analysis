@@ -30,9 +30,9 @@ The analysis compares Bengaluru with **Zurich, Singapore, and Amsterdam** to ide
 
 ## Repo Structure
 
-* `Why Bengaluru Needs Fewer Cars.docx` — Research paper
-* `traffic_analysis.ipynb` — Main analysis notebook
-* `Global_Benchmark_Comparison.ipynb` — Comparative analysis notebook
+* `Why Bengaluru Needs Fewer Cars.docx` - Research paper
+* `traffic_analysis.ipynb` - Main analysis notebook
+* `Global_Benchmark_Comparison.ipynb` - Comparative analysis notebook
 
 ## Disclaimer
 
